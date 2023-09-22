@@ -10,3 +10,50 @@ void main...
 
 ide --> vs code...
 install --> python3 3.18.x
+
+int x = 100;
+100
+int
+ x = 100.90
+100
+
+float 10.20
+10.20
+float 20
+20.0
+
+narrow typecasting   float --> int 12.90 -> 12
+broader typecasting  int --> float 12 -> 12.0
+
+operators:
+operators are the symbols which are used to perform the 
+operations on operands
+-------------------------------------------------------
+
+1)unerary operators
+
+2) binary operators
+	bitwise operators
+		& | ^ ~ << >>
+	arithmetic operators
+		+ - * / % // **
+
+	comparision operators
+		< > <= >= == !=
+
+	logical operators
+		and or not
+
+	asingment operators
+		= += -= *= /= %= //= **=
+
+	memmbership operators
+		in not in
+
+	identity operators
+		is is not
+
+
+
+
+= asignment operators : right side value will be assigned to left side variable
