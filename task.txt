@@ -1,1 +1,9 @@
 find how to get False input from user...
+
+#task....
+
+user salry input ---> 20000 monthy --> 12*20000 = 240000
+1)if user's salary > 100000 he / she is eligible for 2 wheeler loan
+2)if user's salary > 300000 he / she is eligible for 4 wheeler loan
+3)if user's salary > 500000 he / she is eligible for house loan
+4)if user's salary > 1000000 he / she is eligible for business loan
