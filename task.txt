@@ -7,3 +7,9 @@ user salry input ---> 20000 monthy --> 12*20000 = 240000
 2)if user's salary > 300000 he / she is eligible for 4 wheeler loan
 3)if user's salary > 500000 he / she is eligible for house loan
 4)if user's salary > 1000000 he / she is eligible for business loan
+
+--------------------------------------------------------------------------
+staring end no --> even no  --> sum
+1 loop and no : ---> divided by 3 and 5 -->  mul
+
+no --> table --> 1 to 10

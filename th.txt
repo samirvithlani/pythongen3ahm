@@ -57,3 +57,9 @@ operations on operands
 
 
 = asignment operators : right side value will be assigned to left side variable
+
+loop:
+entry controlled loop
+	:for loop, while loop
+exit controlled loop
+	do while loop
