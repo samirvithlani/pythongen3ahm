@@ -1,0 +1,10 @@
+upper 
+lower
+lstrip
+rstrip
+strip
+replce
+capitalize
+title
+endswith
+startswith

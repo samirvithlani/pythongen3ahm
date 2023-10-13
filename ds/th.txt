@@ -1,0 +1,3 @@
+list
+----
+1)list is group of heterogenous elements
