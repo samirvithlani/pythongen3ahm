@@ -1,3 +1,11 @@
-list
+
+array:- group of similar elements
+list,set,tuple,dictionary
 ----
 1)list is group of heterogenous elements
+2)list is mutable
+3)list is ordered
+4)list is represented by []
+5)list is dynamic --> size is not fixed
+6)list allows duplicate elements
+7)list allows slicing and indexing

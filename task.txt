@@ -21,3 +21,14 @@ no --> table --> 1 to 10
 # please enter valid amount --> 8977
 
 # please try again in while..
+
+1)check string is palindrome or not
+2)find largest word from string
+3)find count of specific word from string
+4)remove space from string and replcae with # symbol
+
+
+users = [["raj",20,True,23000],["ekta",30,False,22000],["seeta",40,True,45000]]    
+
+#find max element from list [12,22,45,67,112,345] 
+find user who is having max salary and print his name
