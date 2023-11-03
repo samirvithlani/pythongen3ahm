@@ -9,3 +9,12 @@ list,set,tuple,dictionary
 5)list is dynamic --> size is not fixed
 6)list allows duplicate elements
 7)list allows slicing and indexing
+
+tuple:
+1)tuple is group of heterogenous elements
+2)tuple is immutable
+3)tuple is ordered
+4)tuple is represented by ()
+5)tuple is dynamic --> size is not fixed
+6)tuple allows duplicate elements
+7)tuple allows slicing and indexing

@@ -32,3 +32,36 @@ users = [["raj",20,True,23000],["ekta",30,False,22000],["seeta",40,True,45000]]
 
 #find max element from list [12,22,45,67,112,345] 
 find user who is having max salary and print his name
+
+
+--------------------------------------------------------
+find no of word from string....
+
+find no of occurance of char from string...india  i  java a -->
+#india --> 
+find index of given char from string..
+
+java --> a --> 1
+
+java ->0 -> 1 ->a 
+
+#string --> "azAZ" --> true false... 
+
+
+name --> len >3 and must starts with 'a'
+
+check name is palindrome or not you can use slicing [::-1] naman madam
+
+find largest word from string
+
+hi this is java
+
+java
+
+
+
+
+
+
+
+
