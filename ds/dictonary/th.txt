@@ -1,0 +1,22 @@
+list tuple 
+index 
+
+aram rank
+
+["general"]
+["amit]
+{"general":"amit","colonol":"",1:}
+
+key value...
+
+userName:birthDate
+''
+char
+1)dict is mutable
+2)dict is unordered
+3)dict is iterable []
+4)dict is does not support duplicate key
+5)dict is does  support duplicate value
+6)dic stores data in key:value pair
+7)dict allows heterogenous data [key,value]
+8)data type of dict is dict
