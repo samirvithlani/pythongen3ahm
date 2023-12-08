@@ -20,3 +20,6 @@ char
 6)dic stores data in key:value pair
 7)dict allows heterogenous data [key,value]
 8)data type of dict is dict
+
+
+{1:1,2:2,3:27,4:4,5:125}

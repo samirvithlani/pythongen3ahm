@@ -1,0 +1,7 @@
+#set does not allow duplicates
+#set does not have order
+#set is mutable
+#set is unordered
+#set is unindexed
+
+[] , () ,{} , set{}
