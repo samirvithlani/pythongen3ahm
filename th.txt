@@ -63,3 +63,31 @@ entry controlled loop
 	:for loop, while loop
 exit controlled loop
 	do while loop
+
+
+
+functions:function is a block of code which is used to perform a specific task
+	1)predefined functions
+	2)user defined functions
+
+	with arguments with return type
+	with arguments without return type
+	without arguments with return type
+	without arguments without return type
+
+
+def keyword is used to define the function
+{block} -->
+
+indentation --> 4 spaces
+
+use:
+1)code reusability
+2)code optimization : 
+3)code maintainance :isValid() -->logic...
+4)code readability :
+5)code debugging  :
+
+
+boiler plate code: 
+a code which is used to perform a specific task and it is used as a template
