@@ -1,4 +1,6 @@
 def getUserData(no,**kwargs):
+    print(kwargs["name"])
+    print(kwargs.get("name"))
     print(kwargs)
     print(no)
     print(type(kwargs))

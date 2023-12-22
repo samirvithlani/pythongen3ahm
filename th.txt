@@ -91,3 +91,18 @@ use:
 
 boiler plate code: 
 a code which is used to perform a specific task and it is used as a template
+
+
+
+pass numbers in args and return sum of that numbers....
+
+list --> args --> even list --> [10,20,44,3,5,7,76]
+
+args -->name... paidromw list...
+
+
+kwargs : ---->
+
+function(kwargs):
+
+name="sai" role="admin" sal=1000000
