@@ -58,6 +58,11 @@ hi this is java
 
 java
 
+tasks
+1)get 2 dictonary as params and merge them and return new dictonary
+2)find max element from list [12,22,45,67,112,345] using UDF function
+3)pass name as param and check name is palindrome or notex you can use
+slicing if name is palindrome return true else false
 
 
 
