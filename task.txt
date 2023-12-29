@@ -65,6 +65,12 @@ tasks
 slicing if name is palindrome return true else false
 
 
+TASK for lambda
+1)pass list as parama and return max no from list
+2)pass kwarg as parama and return sum of all values
+3)pass list of stirng as param and return list of string which is starts with a and ends with a
+
+
 
 
 
