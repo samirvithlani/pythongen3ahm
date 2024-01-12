@@ -73,6 +73,13 @@ TASK for lambda
 
 
 
+create blank list --->[]
+
+infinte loop
+
+please enter color name --> red --> append to list
+-->want to add more color -->1 for yes  -->
+
 
 
 
