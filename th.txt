@@ -106,3 +106,22 @@ kwargs : ---->
 function(kwargs):
 
 name="sai" role="admin" sal=1000000
+
+
+functions : function is code block....
+reusability code
+maintainance
+readability
+
+
+void demo
+int test
+
+
+def funname():
+	return value
+
+
+
+
+

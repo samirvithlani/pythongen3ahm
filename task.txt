@@ -82,4 +82,26 @@ please enter color name --> red --> append to list
 
 
 
+-->["kumar","sharma","priya","neha"]
+-->["ramuk","amrahs","ayirp","haen"]
+
+
+
+#sales =
+{"monday":[100,20,30],"tuesday":[200,30,40],"wednesday":[300,40,50],"thursday":[400,50,60],"friday":[500,60,70]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
