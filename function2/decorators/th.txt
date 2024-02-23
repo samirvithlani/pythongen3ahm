@@ -1,0 +1,7 @@
+decorators:
+decorators are used to modify the behavior of a function or a class.
+ without modifying the function or class itself.
+
+ decorators expect a function as an argument and return a new function as a result.
+
+ decorators denote with @ symbol and placed on top of the function to be decorated.
