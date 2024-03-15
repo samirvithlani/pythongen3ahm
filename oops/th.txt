@@ -16,9 +16,26 @@ flv...   rose...
 animal   dog
 school   student
 
-
-
-
 inheritance
+    child class can use prop of parent class this  process is called inheritance
+
+    type of inheritance
+    single inheritance
+        a --> b
+    multilevel inheritance
+        a --> b --> c
+    multiple inheritance
+        a --> b,c,d,e,f
+        a,x --> b
+    hierarchical inheritance
+                            q eliza
+           prince charles                   prince andrew
+
+   prince william  prince harry        princess beatrice  princess eugenie                              
+
+    hybrid inheritance
+
+    a --> b,c,d,e,f --> 20
+
 polymorphism
 abstraction

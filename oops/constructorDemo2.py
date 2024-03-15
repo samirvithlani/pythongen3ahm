@@ -4,6 +4,7 @@ class Library:
         print("Library Object Created")
         self.name = "Central Library"
         self.city = city #copy the value of city to instance variable
+        self.getLibraryData()
     
     
     def getLibraryData(self): #l2
