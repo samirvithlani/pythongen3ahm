@@ -1,0 +1,24 @@
+POPS : --> pro
+OOPS  : - object  oriented  programming  structure
+
+
+
+encapsulation : - binding of data and methods into a single unit is called encapsulation
+    class,object,consstructor,access modifier,method
+
+class: class is a blueprint of an object, class is collection of objects and methods
+object: object is an instance of a class
+
+---------------------------------------------------------------------------------
+class    object
+
+flv...   rose...
+animal   dog
+school   student
+
+
+
+
+inheritance
+polymorphism
+abstraction
