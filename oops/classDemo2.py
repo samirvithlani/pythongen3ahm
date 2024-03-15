@@ -8,6 +8,7 @@ class Bank:
         print("Bank Name is ",self.name)
         print("Bank Balance is ",balance)
         print("IFSC Code is ",Bank.ifscCODE)
+        
     
     def userDetail(self): #b --> b.name = "HDFC Bank"
         print("bank name =  ",self.name)
