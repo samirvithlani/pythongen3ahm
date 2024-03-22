@@ -92,6 +92,19 @@ please enter color name --> red --> append to list
 
 
 
+Student App:
+
+add Student 
+display Student
+delete Student
+update Student
+exit
+
+
+menu driven app
+
+
+
 
 
 
