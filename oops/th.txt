@@ -38,4 +38,12 @@ inheritance
     a --> b,c,d,e,f --> 20
 
 polymorphism
+    :compile time polymorphism : function overloading
+    :run time polymorphism : function overriding
 abstraction
+
+
+accessmodifiers in python:
+
+strong privte __
+protected _
