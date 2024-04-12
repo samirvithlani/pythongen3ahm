@@ -122,6 +122,26 @@ def funname():
 	return value
 
 
+Error : syntax error
+Exception : runtime error
+		 :logical error
+		 :semantic error
+
+
+error must resolve:
+Exception have to handle:
+
+Exception class is the parent class of all the exceptions
+
+ways to handle exceptions in python:
+1)try except
+2)try except finally
+3)try except else finally
+4)try except else
+
+
+
+
 
 
 
